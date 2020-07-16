@@ -1,0 +1,13 @@
+﻿  Image_Process1.cpp
+c:\users\sulu\downloads\compressed\read_image\image_process1\image_process1.cpp(12): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\sulu\downloads\compressed\read_image\image_process1\image_process1.cpp(18): warning C4101: 'Y': yerel değişken başvurusu kaldırıldı
+c:\users\sulu\downloads\compressed\read_image\image_process1\image_process1.cpp(27): warning C4101: 'Y': yerel değişken başvurusu kaldırıldı
+c:\users\sulu\downloads\compressed\read_image\image_process1\image_process1.cpp(95): warning C4244: '+=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\sulu\downloads\compressed\read_image\image_process1\image_process1.cpp(120): warning C4244: '+=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\sulu\downloads\compressed\read_image\image_process1\image_process1.cpp(214): warning C4244: '+=': 'double' - 'long' dönüşümü; veri kaybı olabilir
+c:\users\sulu\downloads\compressed\read_image\image_process1\image_process1.cpp(216): warning C4244: '=': 'double' - 'long' dönüşümü; veri kaybı olabilir
+c:\users\sulu\downloads\compressed\read_image\image_process1\image_process1.cpp(314): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\sulu\downloads\compressed\read_image\image_process1\image_process1.cpp(308): warning C4101: 'a': yerel değişken başvurusu kaldırıldı
+c:\users\sulu\downloads\compressed\read_image\image_process1\image_process1.cpp(418): warning C4101: 'input2': yerel değişken başvurusu kaldırıldı
+c:\users\sulu\downloads\compressed\read_image\image_process1\image_process1.cpp(418): warning C4101: 'input3': yerel değişken başvurusu kaldırıldı
+  Image_Process1.vcxproj -> C:\Users\sulu\Downloads\Compressed\Read_Image\Debug\Image_Process1.exe
